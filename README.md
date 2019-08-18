@@ -20,6 +20,13 @@ It's as simple as telling it what domain you wanna scrape from (fx. rape.horse o
 This project was made to meme "DayZoonHD", a retarded skid.<br>
 https://github.com/BabiKoqi/ChallengeAccepted<br>
 
+### Koqi's checkers
+https://cracked.to/Thread-Auth-BabiKoqi-s-MailAccess-Checker-Blazing-Fast-CPM-Checks-Your-Combos-For-Mail-Access<br>
+https://cracked.to/Thread-Auth-BabiKoqi-s-Instagram-Checker-Blazing-Fast-CPM-Captures-Username-Followers<br>
+https://cracked.to/Thread-Auth-BabiKoqi-s-Streamate-Checker-Blazing-Fast-CPM-The-Checking-Speeds-Are-Amazing<br>
+https://cracked.to/Thread-Auth-BabiKoqi-s-NordVPN-Checker-Blazing-Fast-CPM-The-Checker-Doesnt-Save-Expired-Hits<br>
+https://cracked.to/Thread-FortniteBPC-Checks-If-Proxies-Are-Banned-On-Fortnite-High-CPM-By-BabiKoqi<br>
+https://cracked.to/Thread-Auth-BabiKoqi-s-Minecraft-Checker-Blazing-Fast-CPM-NFA-SFA-UFA-Updated<br>
 
 # Members
 - iLinked (https://youtube.com/iLinked / https://github.com/iLinked1337).
