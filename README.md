@@ -28,6 +28,10 @@ https://github.com/JenzV/DiscordTokenTerm<br>
 Changes ur hypesquad, idk.<br>
 https://github.com/JenzV/HypesquadChanger<br>
 
+### Guardian
+Basic Anti-Debugger.<br>
+https://github.com/MauriceHuber/Guardian<br>
+
 ### Koqi's checkers
 https://cracked.to/Thread-Auth-BabiKoqi-s-MailAccess-Checker-Blazing-Fast-CPM-Checks-Your-Combos-For-Mail-Access<br>
 https://cracked.to/Thread-Auth-BabiKoqi-s-Instagram-Checker-Blazing-Fast-CPM-Captures-Username-Followers<br>
