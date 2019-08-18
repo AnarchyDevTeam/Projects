@@ -30,5 +30,5 @@ https://cracked.to/Thread-Auth-BabiKoqi-s-Minecraft-Checker-Blazing-Fast-CPM-NFA
 
 # Members
 - iLinked (https://youtube.com/iLinked / https://github.com/iLinked1337).
-- BabiKoqi (https://cracked.to/member.php?action=profile&uid=118633 / https://github.com/BabiKoqi/ChallengeAccepted).
+- BabiKoqi (https://cracked.to/member.php?action=profile&uid=118633 / https://github.com/BabiKoqi).
 - Jenz (https://www.youtube.com/channel/UCgxRiGJP5cAqKPmMBt3AxnQ).
