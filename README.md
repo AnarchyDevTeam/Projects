@@ -16,7 +16,7 @@ https://github.com/iLinked1337/AnarchyGrabber<br>
 
 ### Sharing site media scraper
 A bot made for scraping tons of screenshots, videos, gifs etc.<br>
-It's as simple as telling it what domain you wanna scrape from (fx. rape.horse or doxing.services), and set a few other properties.<br>
+It's as simple as telling it what domain you wanna scrape from (fx. rape.horse or doxing.services), how many threads, etc.<br>
 This project was made to meme "DayZoonHD", a retarded skid.<br>
 https://github.com/BabiKoqi/ChallengeAccepted<br>
 
