@@ -23,5 +23,5 @@ https://github.com/BabiKoqi/ChallengeAccepted<br>
 
 # Members
 - iLinked (https://youtube.com/iLinked / https://github.com/iLinked1337).
-- BabiKoqi (https://cracked.to/member.php?action=profile&uid=118633).
-- Jenz (https://bit.ly/2Z1o90D).
+- BabiKoqi (https://cracked.to/member.php?action=profile&uid=118633 / https://github.com/BabiKoqi/ChallengeAccepted).
+- Jenz (https://www.youtube.com/channel/UCgxRiGJP5cAqKPmMBt3AxnQ).
