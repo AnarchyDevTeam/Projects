@@ -1,7 +1,7 @@
 # Projects
 
 ### Anarchy
-A simple, easy to use Discord API wrapper.<br>
+A simple, easy to use Discord API wrapper, which primarely focuses on selfbot development.<br>
 https://github.com/iLinked1337/Anarchy<br>
 
 ### OpenDiscordHaxx (OpenDH)
@@ -20,6 +20,14 @@ It's as simple as telling it what domain you wanna scrape from (fx. rape.horse o
 This project was made to meme "DayZoonHD", a retarded skid.<br>
 https://github.com/BabiKoqi/ChallengeAccepted<br>
 
+### Discord Token Terminator
+Made for disabling accounts without having the account's password.<br>
+https://github.com/JenzV/DiscordTokenTerm<br>
+
+### Discord Hypesquad Changer
+Changes ur hypesquad, idk.<br>
+https://github.com/JenzV/HypesquadChanger<br>
+
 ### Koqi's checkers
 https://cracked.to/Thread-Auth-BabiKoqi-s-MailAccess-Checker-Blazing-Fast-CPM-Checks-Your-Combos-For-Mail-Access<br>
 https://cracked.to/Thread-Auth-BabiKoqi-s-Instagram-Checker-Blazing-Fast-CPM-Captures-Username-Followers<br>
@@ -31,4 +39,4 @@ https://cracked.to/Thread-Auth-BabiKoqi-s-Minecraft-Checker-Blazing-Fast-CPM-NFA
 # Members
 - iLinked (https://youtube.com/iLinked / https://github.com/iLinked1337).
 - BabiKoqi (https://cracked.to/member.php?action=profile&uid=118633 / https://github.com/BabiKoqi).
-- Jenz (https://www.youtube.com/channel/UCgxRiGJP5cAqKPmMBt3AxnQ).
+- Jenz (https://www.youtube.com/channel/UCgxRiGJP5cAqKPmMBt3AxnQ / https://github.com/JenzV/).
