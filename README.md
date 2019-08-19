@@ -41,7 +41,8 @@ https://cracked.to/Thread-FortniteBPC-Checks-If-Proxies-Are-Banned-On-Fortnite-H
 https://cracked.to/Thread-Auth-BabiKoqi-s-Minecraft-Checker-Blazing-Fast-CPM-NFA-SFA-UFA-Updated<br>
 
 # Members
-- iLinked (https://youtube.com/iLinked / https://github.com/iLinked1337).
-- BabiKoqi (https://cracked.to/member.php?action=profile&uid=118633 / https://github.com/BabiKoqi).
-- KNIF (https://github.com/MauriceHuber).
-- Jenz (https://www.youtube.com/channel/UCgxRiGJP5cAqKPmMBt3AxnQ / https://github.com/JenzV/).
+- iLinked (https://youtube.com/iLinked / https://github.com/iLinked1337) - Owner/Developer
+- BabiKoqi (https://cracked.to/member.php?action=profile&uid=118633 / https://github.com/BabiKoqi) - Developer
+- KNIF (https://github.com/MauriceHuber) - Developer
+- Jenz (https://www.youtube.com/channel/UCgxRiGJP5cAqKPmMBt3AxnQ / https://github.com/JenzV/) - Developer
+- Slurpy (https://www.youtube.com/channel/UCpnFq2LVB1iwMLsfGxvW0fg) - Bug hunter
