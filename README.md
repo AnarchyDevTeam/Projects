@@ -28,6 +28,10 @@ https://github.com/JenzV/DiscordTokenTerm<br>
 Changes ur hypesquad, idk.<br>
 https://github.com/JenzV/HypesquadChanger<br>
 
+### SpoilCord
+Allows you to add a bunch of spoilers to ur message ok.<br>
+https://github.com/JenzV/SpoilCord<br>
+
 ### Guardian
 Basic Anti-Debugger.<br>
 https://github.com/MauriceHuber/Guardian<br>
