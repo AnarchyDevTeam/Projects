@@ -36,6 +36,10 @@ https://github.com/JenzV/HypesquadChanger<br>
 Allows you to add a bunch of spoilers to ur message ok.<br>
 https://github.com/JenzV/SpoilCord<br>
 
+### NoFriends
+Mass incoming friends remover, good to use when friend bombed.<br>
+https://github.com/JenzV/NoFriends<br>
+
 ### Guardian
 Basic Anti-Debugger.<br>
 https://github.com/MauriceHuber/Guardian<br>
