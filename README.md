@@ -40,9 +40,9 @@ https://github.com/JenzV/SpoilCord<br>
 Mass incoming friends remover, good to use when friend bombed.<br>
 https://github.com/JenzV/NoFriends<br>
 
-### Guardian
-Basic Anti-Debugger.<br>
-https://github.com/MauriceHuber/Guardian<br>
+### Status changer
+Simple status/activity changer
+https://github.com/MauriceHuber/AnarchyStatus
 
 ### Koqi's checkers
 https://cracked.to/Thread-Auth-BabiKoqi-s-MailAccess-Checker-Blazing-Fast-CPM-Checks-Your-Combos-For-Mail-Access<br>
