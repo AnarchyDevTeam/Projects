@@ -14,7 +14,7 @@ An incredibly effective Discord token grabber, which allows you to easily steal 
 This grabber also has grabbing support for tons of services, such as: Discord, Discord Canary, Chrome and Opera.<br>
 https://github.com/iLinked1337/AnarchyGrabber<br>
 
-### Sharing site media scraper
+### Sharing Site Media Scraper
 A bot made for scraping tons of screenshots, videos, gifs etc.<br>
 It's as simple as telling it what domain you wanna scrape from (fx. rape.horse or doxing.services), how many threads, etc.<br>
 This project was made to meme "DayZoonHD", a retarded skid.<br>
@@ -40,11 +40,11 @@ https://github.com/JenzV/SpoilCord<br>
 Mass incoming friends remover, good to use when friend bombed.<br>
 https://github.com/JenzV/NoFriends<br>
 
-### Status changer
+### Status Changer
 Simple status/activity changer
 https://github.com/MauriceHuber/AnarchyStatus
 
-### Koqi's checkers
+### Koqi's Checkers
 https://cracked.to/Thread-Auth-BabiKoqi-s-MailAccess-Checker-Blazing-Fast-CPM-Checks-Your-Combos-For-Mail-Access<br>
 https://cracked.to/Thread-Auth-BabiKoqi-s-Instagram-Checker-Blazing-Fast-CPM-Captures-Username-Followers<br>
 https://cracked.to/Thread-Auth-BabiKoqi-s-Streamate-Checker-Blazing-Fast-CPM-The-Checking-Speeds-Are-Amazing<br>
@@ -52,7 +52,7 @@ https://cracked.to/Thread-Auth-BabiKoqi-s-NordVPN-Checker-Blazing-Fast-CPM-The-C
 https://cracked.to/Thread-FortniteBPC-Checks-If-Proxies-Are-Banned-On-Fortnite-High-CPM-By-BabiKoqi<br>
 https://cracked.to/Thread-Auth-BabiKoqi-s-Minecraft-Checker-Blazing-Fast-CPM-NFA-SFA-UFA-Updated<br>
 
-### Kade's shitposts
+### Kade's Shitposts
 https://github.com/KadePcGames/Kades-Discord-Changer<br>
 https://github.com/KadePcGames/Discord-Webhook<br>
 https://github.com/KadePcGames/BB-Deob<br>
