@@ -26,7 +26,7 @@ https://github.com/BabiKoqi/DiscordWebhookRaper<br>
 
 ### Discord Token Terminator
 Made for disabling accounts without having the account's password.<br>
-https://github.com/JenzV/DiscordTokenTerm<br>
+https://github.com/BabiKoqi/Discord-Token-Terminator<br>
 
 ### Discord Hypesquad Changer
 Changes ur hypesquad, idk.<br>
