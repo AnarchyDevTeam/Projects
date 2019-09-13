@@ -28,14 +28,6 @@ https://github.com/BabiKoqi/DiscordWebhookRaper<br>
 Made for disabling accounts without having the account's password.<br>
 https://github.com/BabiKoqi/Discord-Token-Terminator<br>
 
-### Discord Hypesquad Changer
-Changes ur hypesquad, idk.<br>
-https://github.com/JenzV/HypesquadChanger<br>
-
-### SpoilCord
-Allows you to add a bunch of spoilers to ur message ok.<br>
-https://github.com/JenzV/SpoilCord<br>
-
 ### NoFriends
 Mass incoming friends remover, good to use when friend bombed.<br>
 https://github.com/JenzV/NoFriends<br>
@@ -64,3 +56,4 @@ https://github.com/KadePcGames/BB-Deob<br>
 - Jenz (https://www.youtube.com/channel/UCgxRiGJP5cAqKPmMBt3AxnQ / https://github.com/JenzV/) - Developer
 - Kade (https://www.nulled.to/user/1865333-howigokoa / https://github.com/KadePcGames) - Developer
 - Slurpy (https://www.youtube.com/channel/UCpnFq2LVB1iwMLsfGxvW0fg) - Bug hunter
+- KnifL - Bug hunter
