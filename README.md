@@ -32,6 +32,10 @@ https://github.com/BabiKoqi/Discord-Token-Terminator<br>
 Mass incoming friends remover, good to use when friend bombed.<br>
 https://github.com/JenzV/NoFriends<br>
 
+### NoNick
+Keeps your desired Discord name without anyone changing it.<br>
+https://github.com/JenzV/NoNick<br>
+
 ### Status Changer
 Simple status/activity changer
 https://github.com/MauriceHuber/AnarchyStatus
