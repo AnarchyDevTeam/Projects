@@ -20,10 +20,6 @@ It's as simple as telling it what domain you wanna scrape from (fx. rape.horse o
 This project was made to meme "DayZoonHD", a retarded skid.<br>
 https://github.com/BabiKoqi/ChallengeAccepted<br>
 
-### DiscordWebHookRaper
-A Simple Program That Spams The Target WebHook With Customisable Messages.<br>
-https://github.com/BabiKoqi/DiscordWebhookRaper<br>
-
 ### Discord Token Terminator
 Made for disabling accounts without having the account's password.<br>
 https://github.com/BabiKoqi/Discord-Token-Terminator<br>
