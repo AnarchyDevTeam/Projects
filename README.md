@@ -51,7 +51,7 @@ https://github.com/KadePcGames/BB-Deob<br>
 
 # Members
 - iLinked (https://youtube.com/iLinked / https://github.com/iLinked1337) - Owner/Developer
-- BabiKoqi (https://cracked.to/member.php?action=profile&uid=118633 / https://github.com/BabiKoqi) - Developer
+- BabiKoqi (https://cracked.to/BabiKoqi / https://github.com/BabiKoqi) - Developer
 - KNIF (https://github.com/MauriceHuber) - Developer
 - Jenz (https://www.youtube.com/channel/UCgxRiGJP5cAqKPmMBt3AxnQ / https://github.com/JenzV/) - Developer
 - Kade (https://www.nulled.to/user/1865333-howigokoa / https://github.com/KadePcGames) - Developer
