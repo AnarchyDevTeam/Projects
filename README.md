@@ -34,7 +34,7 @@ https://github.com/JenzV/NoNick<br>
 
 ### Status Changer
 Simple status/activity changer
-https://github.com/MauriceHuber/AnarchyStatus
+https://github.com/KNIF/AnarchyStatus
 
 ### Koqi's Checkers
 https://cracked.to/Thread-Auth-BabiKoqi-s-MailAccess-Checker-Blazing-Fast-CPM-Checks-Your-Combos-For-Mail-Access<br>
@@ -52,7 +52,7 @@ https://github.com/KadePcGames/BB-Deob<br>
 # Members
 - iLinked (https://youtube.com/iLinked / https://github.com/iLinked1337) - Owner/Developer
 - BabiKoqi (https://cracked.to/BabiKoqi / https://github.com/BabiKoqi) - Developer
-- KNIF (https://github.com/MauriceHuber) - Developer
+- KNIF (https://github.com/KNIF) - Developer
 - Jenz (https://www.youtube.com/channel/UCgxRiGJP5cAqKPmMBt3AxnQ / https://github.com/JenzV/) - Developer
 - Kade (https://www.nulled.to/user/1865333-howigokoa / https://github.com/KadePcGames) - Developer
 - Slurpy (https://www.youtube.com/channel/UCpnFq2LVB1iwMLsfGxvW0fg) - Bug hunter
