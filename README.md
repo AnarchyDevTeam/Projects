@@ -54,6 +54,6 @@ https://github.com/KadePcGames/BB-Deob<br>
 - BabiKoqi (https://cracked.to/BabiKoqi / https://github.com/BabiKoqi) - Developer
 - KNIF (https://github.com/MauriceHuber) - Developer
 - Jenz (https://www.youtube.com/channel/UCgxRiGJP5cAqKPmMBt3AxnQ / https://github.com/JenzV/) - Developer
-- Kade (https://www.nulled.to/user/1865333-howigokoa / https://github.com/KadePcGames) - Developer
+- Kade (https://www.nulled.to/user/1865333-howigokoa / https://github.com/KadeDev) - Developer
 - Slurpy (https://www.youtube.com/channel/UCpnFq2LVB1iwMLsfGxvW0fg) - Bug hunter
 - KnifL - Bug hunter
