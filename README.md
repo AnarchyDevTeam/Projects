@@ -24,14 +24,6 @@ https://github.com/BabiKoqi/ChallengeAccepted<br>
 Made for disabling accounts without having the account's password.<br>
 https://github.com/BabiKoqi/Discord-Token-Terminator<br>
 
-### NoFriends
-Mass incoming friends remover, good to use when friend bombed.<br>
-https://github.com/JenzV/NoFriends<br>
-
-### NoNick
-Keeps your desired Discord name without anyone changing it.<br>
-https://github.com/JenzV/NoNick<br>
-
 ### Status Changer
 Simple status/activity changer
 https://github.com/MauriceHuber/AnarchyStatus
@@ -53,7 +45,6 @@ https://github.com/KadePcGames/BB-Deob<br>
 - iLinked (https://youtube.com/iLinked / https://github.com/iLinked1337) - Owner/Developer
 - BabiKoqi (https://cracked.to/BabiKoqi / https://github.com/BabiKoqi) - Developer
 - KNIF (https://github.com/MauriceHuber) - Developer
-- Jenz (https://www.youtube.com/channel/UCgxRiGJP5cAqKPmMBt3AxnQ / https://github.com/JenzV/) - Developer
 - Kade (https://www.nulled.to/user/1865333-howigokoa / https://github.com/KadePcGames) - Developer
 - Slurpy (https://www.youtube.com/channel/UCpnFq2LVB1iwMLsfGxvW0fg) - Bug hunter
 - KnifL - Bug hunter
