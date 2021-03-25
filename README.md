@@ -2,7 +2,7 @@
 
 ### Anarchy
 A simple, easy to use Discord API wrapper, which primarely focuses on selfbot development.<br>
-Anarchy is used in many of our other products, such as: OpenDH (https://github.com/iLinked1337/OpenDiscordHaxx), NoNick (https://github.com/JenzV/NoNick), and much more!
+Anarchy is used in many of our other products, such as: OpenDH (https://github.com/iLinked1337/OpenDiscordHaxx), and much more!
 https://github.com/iLinked1337/Anarchy<br>
 
 ### OpenDiscordHaxx (OpenDH)
